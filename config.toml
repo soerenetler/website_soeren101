@@ -28,6 +28,8 @@ DefaultContentLanguageInSubdir = true
         
 
 [params]
+  logo = "blist-logo.png"
+
   # Enable the darkmode toggle in header
   darkModeToggle = true
   

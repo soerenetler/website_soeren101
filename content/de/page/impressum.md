@@ -10,11 +10,14 @@ type: imprint
 ## Angaben gemäß § 5 TMG
 
 Sören Etler
+
 Immermannstr. 21
+
 39108 Magdeburg
 
 ## Kontakt:
 Telefon: +49 176 521 638 47
+
 E-Mail: hello@soeren101.de
 
 ## Haftungsausschluss
