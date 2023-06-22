@@ -2,7 +2,7 @@
 author: Sören Etler
 title: Impressum
 date: 2021-07-15
-description:
+description: Impressum
 keywords: ["imprint"]
 type: imprint
 ---

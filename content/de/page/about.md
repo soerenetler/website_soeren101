@@ -1,26 +1,25 @@
 ---
-author: Katheryn Fox
+author: Sören Etler
 title: Über mich
-date: 2021-07-15
+date: 2023-06-22
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about-us", "about", "contact"]
 type: about
 ---
 
-Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0.] (https://github.com/gohugoio/hugo/blob/master/LICENSE) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.
 
-Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Anschließend habe ich die Blaue Dächer Digitalwerkstatt gegründet und entwickel hier digitale Lösungen für den Tourismus – haupsächlich Service-chatbots und Messengertouren.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Sören Etler unterstützt zivilgesellschaftliche Organisationen und Unternehmen dabei, das Potenzial von Daten & Künstlicher Intelligenz zu erkennen und zu nutzen.
+Als Gründer und Geschäftsführer der Blaue Dächer Digitalwerkstatt entwickelt er Chatbots und hat sich auf die Analyse und Visualisierung von Sprach- und Geodaten spezialisiert. In verschiedenen Projekten hat er bereits Non-Profit Organisationen bei der Digitalisierung begleitet z.B. als Projektkoordinator bei der Stiftung Bürgermut, Volunteer bei CorrelAid e.V. oder Vorstandsmitglied beim Peernetzwerk JETZT e.V.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Ich habe mich auf die Analyse und Visualisierung von Sprache (NLP) und Geodaten spezialisiert und arbeite besonders gerne mit offenen Datenquellen (Open Data). In verschiedenen Projekten habe ich bereits Non-Profit Organisationen bei der Digitalisierung unterstützt.
+Als Gründer und Geschäftsführer der Blaue Dächer Digitalwerkstatt entwickle ich Service-Chatbots und Messengertouren und unterstütze Organisationen in Workshops und Vorträgen dabei, das Potenzial von Daten & Künstlicher Intelligenz zu erkennen und zu nutzen.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Sören Etler ist Gründer der Blaue Dächer Digitalwerkstatt und unterstütz zivilgesellschaftliche Organisationen und Unternehmen bei der Digitalisierung und der Nutzung von KI-Anwendungen. Nach seinem Bachelorstudium der Wirtschaftsinformatik spezialisierte er sich im Master auf die maschinelle Verarbeitung von Sprache und den Bereich der Künstlichen Intelligenz. 2022 hat Sören auch als Projektkoordinator D3 - so geht digital mitgestaltet.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Kurz Vita
+Ich habe Wirtschaftsinformatik studiert und mich im Master auf Sprachverarbeitung und Künstliche Intelligenz spezialisiert. Neben meinem Studium habe ich bei IBM, SAP gearbeitet und als Tutor Studierende in die Techniken der Computerlinguistik eingeführt. 
+
+2018 habe ich das Peernetzwerk JETZT e.V. gegründet, das ich seither als Vorstandsmitglied begleite.
