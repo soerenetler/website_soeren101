@@ -15,8 +15,8 @@ DefaultContentLanguageInSubdir = true
     [languages.de.params]
       introTitle = "Hallo, ich bin Sören Etler"
       introSubtitle = "Ich bin Dantenanalyst, Pythonist & Nerd und ihr könnt mich hier auf meinen Expeditionen in das Reich der Daten begleiten."
-      introPhoto = "/picture.png"
-      logo = "/blist-logo.png"
+      introPhoto = "picture.png"
+      logo = "blist-logo.png"
     [[languages.de.menu.main]]
         name = "Blog"
         url = "blog"
