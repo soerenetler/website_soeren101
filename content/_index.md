@@ -1,6 +1,6 @@
 ---
-author: Katheryn Fox
-title: Home of Katheryn Fox
-date: 2021-07-15
+author: Sören Etler
+title: Sören Etler - Datenanlysen und Künstliche Intelligenz
+date: 2023-06-22
 ---
 

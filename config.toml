@@ -10,7 +10,7 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/de" # Deutsch
     weight = 2
     languageName = "Deutsch"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
+    description = "Ich bin Dantenanalyst, Pythonist & Nerd und ihr könnt mich hier auf meinen Expeditionen in das Reich der Daten begleiten."
     [languages.de.params]
       introTitle = "Hallo, ich bin Sören Etler"
       introSubtitle = "Ich bin Dantenanalyst, Pythonist & Nerd und ihr könnt mich hier auf meinen Expeditionen in das Reich der Daten begleiten."
