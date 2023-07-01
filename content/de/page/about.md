@@ -7,19 +7,23 @@ keywords: ["about-us", "about", "contact"]
 type: about
 ---
 
+Ich bin Sören Etler und unterstütze als Datencoach und KI-Experte zivilgesellschaftliche Organisationen und Unternehmen dabei, das Potenzial von Daten & Künstlicher Intelligenz zu erkennen und zu nutzen.
 
+Im Rahmen meiner akademischen sowie beruflichen Laufbahn habe ich mir ein umfangreiches Fachwissen in der Analyse, Verarbeitung und Integration von Daten sowie der Künstlichen Intelligenz aufgebaut.
 
-Anschließend habe ich die Blaue Dächer Digitalwerkstatt gegründet und entwickel hier digitale Lösungen für den Tourismus – haupsächlich Service-chatbots und Messengertouren.
+Nach einem anwendungsorientierten Bachelor in Wirtschaftsinformatik habe ich mich im Masterstudium an der Universität in Potsdam auf Sprachverarbeitung und Künstliche Intelligenz spezialisiert. Dort habe ich als Tutor für die Techniken der Computerlinguistik sowie  Grundlagen der Python Programmierung meine Leidenschaft in diesem Bereich an die Studierenden herangetragen. Ferner habe ich im Rahmen meiner Abschlussarbeit an der automatisierten Generierung von Fragen zum Leseverstehen geforscht.
 
-Sören Etler unterstützt zivilgesellschaftliche Organisationen und Unternehmen dabei, das Potenzial von Daten & Künstlicher Intelligenz zu erkennen und zu nutzen.
-Als Gründer und Geschäftsführer der Blaue Dächer Digitalwerkstatt entwickelt er Chatbots und hat sich auf die Analyse und Visualisierung von Sprach- und Geodaten spezialisiert. In verschiedenen Projekten hat er bereits Non-Profit Organisationen bei der Digitalisierung begleitet z.B. als Projektkoordinator bei der Stiftung Bürgermut, Volunteer bei CorrelAid e.V. oder Vorstandsmitglied beim Peernetzwerk JETZT e.V.
+Durch meine Tätigkeit bei den Technologiekonzernen IBM und SAP habe ich Best Practices der Software-Entwicklung sowie Unternehmensberatung kennengelernt und angewendet.
 
-Ich habe mich auf die Analyse und Visualisierung von Sprache (NLP) und Geodaten spezialisiert und arbeite besonders gerne mit offenen Datenquellen (Open Data). In verschiedenen Projekten habe ich bereits Non-Profit Organisationen bei der Digitalisierung unterstützt.
-Als Gründer und Geschäftsführer der Blaue Dächer Digitalwerkstatt entwickle ich Service-Chatbots und Messengertouren und unterstütze Organisationen in Workshops und Vorträgen dabei, das Potenzial von Daten & Künstlicher Intelligenz zu erkennen und zu nutzen.
+Seit 2020 bin ich **freiberuflich** tätig. Mein Kernportfolio umfasst dabei
+ - die Analyse von Daten,
+ - Aufbereitung und Visualisierung von Daten,
+ - sowie das Halten von Workshops zu diesen Themen.  
+ 
+Anfang 2021 habe ich die **Blaue Dächer Digitalwerkstatt** gegründet und entwickle hier digitale Lösungen für den Tourismus. Die Kunden sind größtenteils öffentliche Organisationen (z.B. Tourismusverbände, Stadt- & Landesmarketingorganisationen).
+ 
+2022 habe ich auch als Projektkoordinator **D3 - so geht digital** mitgestaltet und vielfältige Erfahrung in der Beratung und Zusammenarbeit mit Non-Profit Organisationen gesammelt.
 
-Sören Etler ist Gründer der Blaue Dächer Digitalwerkstatt und unterstütz zivilgesellschaftliche Organisationen und Unternehmen bei der Digitalisierung und der Nutzung von KI-Anwendungen. Nach seinem Bachelorstudium der Wirtschaftsinformatik spezialisierte er sich im Master auf die maschinelle Verarbeitung von Sprache und den Bereich der Künstlichen Intelligenz. 2022 hat Sören auch als Projektkoordinator D3 - so geht digital mitgestaltet.
-
-## Kurz Vita
-Ich habe Wirtschaftsinformatik studiert und mich im Master auf Sprachverarbeitung und Künstliche Intelligenz spezialisiert. Neben meinem Studium habe ich bei IBM, SAP gearbeitet und als Tutor Studierende in die Techniken der Computerlinguistik eingeführt. 
-
-2018 habe ich das Peernetzwerk JETZT e.V. gegründet, das ich seither als Vorstandsmitglied begleite.
+Ehrenamtlich engagiere ich mich bei **CorrelAid e.V.**, einem Netzwerk aus über 2000 Datenwissenschaftler:innen, die ihre Fähigkeiten für die Zivilgesellschaft einsetzen.
+ 
+Ich bin davon überzeugt, dass Daten die Grundlage für fundierte Entscheidungen und innovative Lösungen bilden. Gerne möchte ich Sie dabei unterstützen, datengesteuerte Entscheidungen zu treffen und das volle Potenzial Ihrer Daten auszuschöpfen.
