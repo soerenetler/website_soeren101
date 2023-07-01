@@ -26,4 +26,4 @@ Anfang 2021 habe ich die **Blaue Dächer Digitalwerkstatt** gegründet und entwi
 
 Ehrenamtlich engagiere ich mich bei **CorrelAid e.V.**, einem Netzwerk aus über 2000 Datenwissenschaftler:innen, die ihre Fähigkeiten für die Zivilgesellschaft einsetzen.
  
-Ich bin davon überzeugt, dass Daten die Grundlage für fundierte Entscheidungen und innovative Lösungen bilden. Gerne möchte ich Sie dabei unterstützen, datengesteuerte Entscheidungen zu treffen und das volle Potenzial Ihrer Daten auszuschöpfen.
+> Ich bin davon überzeugt, dass Daten die Grundlage für fundierte Entscheidungen und innovative Lösungen bilden. Gerne möchte ich Sie dabei unterstützen, datengesteuerte Entscheidungen zu treffen und das volle Potenzial Ihrer Daten auszuschöpfen.
