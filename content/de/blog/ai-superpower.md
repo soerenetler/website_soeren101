@@ -1,10 +1,10 @@
 ---
-author: "Hugo Authors"
+author: "Sören Etler"
 title: "Und was ist deine AI Superpower?"
 date: 2021-07-13
-description: "Eine kurze Beschreibung von Hugo Shortcodes"
-tags: ["shortcodes", "privacy"]
-thumbnail: https://picsum.photos/id/1002/400/250
+description: "Dikussion über das Buch AI Superpowers von Kai-Fu Lee"
+tags: ["AI Superpowers", "buchclub", "CorrelAid"]
+thumbnail: /thumbnail_ai_superpowers.png
 ---
 
 ***Im letzten Monat habe ich gemeinsam mit dem CorrelAid e.V. Buchclub das Buch AI Superpowers - China, Silicon Valley and the New World Order von Kai-Fu Lee gelesen. In diesem Blogpost möchte ich meine Gedanken zu diesem Buch teilen und mit euch im Anschluss in den Kommentaren darüber diskutieren.***
@@ -23,8 +23,7 @@ Ich fand diese Schilderung besonders beeindruckend. Die kulturelle (und auch pol
 
 Und auch die emotionale Komponente wird aufgegriffen - Was ist es, das uns zu Menschen macht? Ke Jie ist während des Spiels gegen AlphaGo in Tränen ausgebrochen.
 
-> *“Ke had gone on a roller-coaster of human emotion: confidence, anxiety, fear, hope, and heartbreak”*
-> 
+> *Ke had gone on a roller-coaster of human emotion: confidence, anxiety, fear, hope, and heartbreak*
 
 Und so wurde er zum Sieger der Herzen. Wir sind an dieser Stelle übrigens ca. auf Seite 10 des Buches angekommen. Keine Sorge, ich werde nicht in der gleichen Länge auch den Rest des Buches beschreiben.
 
@@ -66,11 +65,9 @@ Diese Ausführungen wirken oft etwas blumig über den Wettbewerb in China. Eine 
 
 Anschließend nähert sich Kai-Fu Lee der Frage, wie es momentan um die Vorherrschaft bei der Entwicklung von Künstlicher Intelligenz bestellt ist. Dieses Wettrennen wird aus zwei Richtungen verfolgt: Die Bausteine einer KI-Supermacht und die Wellen von KI.
 
-> *“Creating an AI superpower for the twenty-first century requires four main building blocks: abundant data, tenacious entrepreneurs, well-trained scientists, and a supportive policy environment.”*
-> 
+> *Creating an AI superpower for the twenty-first century requires four main building blocks: abundant data, tenacious entrepreneurs, well-trained scientists, and a supportive policy environment.*
 
-> *“The complete AI revolution will take a little time and will ultimately wash over us in a series of four waves: internet AI, business AI, perception AI, and autonomous AI.*
-> 
+> *The complete AI revolution will take a little time and will ultimately wash over us in a series of four waves: internet AI, business AI, perception AI, and autonomous AI.*
 
 Ich möchte hier eher wenig auf die Details der Analyse eingehen - sie stehen ja alle im Buch. Es zeigt sich, dass China in vielen Bereichen in den letzten Jahren (und das Buch ist von 2018) massiv aufgeholt hat und dabei ist, die Vereinigten Staaten zu überholen. Der Wettstreit der Supermächte wird im Buch stark als Horse Race beschrieben - es werden sogar aktuelle Punktestände und Prognosen für die Zukunft vergeben. Ich glaube, dass diese Zahlen etwas zu kurz greifen, um die komplexen Zusammenhänge und auch die unterschiedlichen Herangehensweisen und Zielsetzungen zu erfassen. Aber sie verdeutlichen eindrucksvoll, wie “wir” dabei sind, die Entwicklungen zu verschlafen. Europa (oder auch andere Kontinente) spielt in diesen keine wesentliche Rolle.
 
@@ -90,7 +87,4 @@ Ich finde Kai-Fu Lee gibt eine spannende Perspektive auf China und die KI-Entwic
 
 Wie nimmst du die aktuellen Fortschritte im Bereich Künstliche Intelligenz wahr? Welche Rolle spielt es für dich, ob die Entwicklungen aus China oder aus den USA kommen? Wie könnte ein europäischer Weg aussehen?
 
-<aside>
 💡 Du möchtest Bücher über Daten, Künstliche Intelligenz und die Auswirkung auf unsere Gesellschaft lesen und darüber diskutieren?  Komm in unseren CorrelAid Buchclub! Ab dem 9. Mai lesen wir “Weapons of Math Destruction - How Big Data Increases Inequality and Threatens Democracy” von Cathy O'Neil. Schreib mir einfach eine kurze Nachricht, um dabei zu sein.
-
-</aside>
