@@ -1,7 +1,7 @@
 ---
 author: "Sören Etler"
 title: "Und was ist deine AI Superpower?"
-date: 2023-07-13
+date: 2023-06-13
 description: "Dikussion über das Buch AI Superpowers von Kai-Fu Lee"
 tags: ["AI Superpowers", "buchclub", "CorrelAid"]
 thumbnail: /thumbnail_ai_superpowers.png
