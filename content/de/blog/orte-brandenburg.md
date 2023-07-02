@@ -12,7 +12,7 @@ thumbnail: /thumbnail_brandenburger_orte.png
  - Aber was heißt das für einen Ortsnamen „brandenburgisch“ zu klingen?
  - Ist es möglich neue brandenburger Ortsnamen zu generieren, die so klingen, als könnten sie echt sein?
 
-# Gucken wir uns die Ortsnamen aus Brandenburg etwas genauer an –ow
+## Gucken wir uns die Ortsnamen aus Brandenburg etwas genauer an –ow
 
 In Brandenburg gibt es 413 politisch selbstständigen Städten und Gemeinden (so sagt es zumindest Wikipedia). Wichtig ist mir aber auch die 1.776 Ortsteile zu berücksichtigen. Nützlicherweise veröffentlich das Land Brandenburg ein Gemeinde- und Ortsteilverzeichnis mit mehr als 5.000 Namen. Hierzu gehören neben kreisfreien Städten und Gemeinden auch Ortsteile, Gemeindeteile und sonstigen Wohnplätzen bzw. Siedlungsnamen.
 
@@ -26,7 +26,7 @@ Die meisten Namen fangen mit S, B oder K an. A ist auf Platz 9 der erste Vokal. 
 
 Noch ein kurzer Blick ans Wortende, bevor wir anfangen Namen zu generieren. 8% der Namen enden auf -ow. Es gibt sowohl ein Lunow als auch ein Lünow. Nur 2% enden auf -in: Menkin, Mescherin.
 
-# So jetzt geht es mit dem Generieren los!
+## So jetzt geht es mit dem Generieren los!
 
 Ich habe die Namen zeichenweise generiert. Es wird also immer ein Buchstabe nach dem anderen hinzugefügt. Daher fängt der Prozess auch mit dem Aufsplitten der Namen in die einzelnen Zeichen an. In der Liste von brandenburger Ortsnamen gibt es 67 verschiedene Buchstaben und Zeichen. Neben dem Alphabet (in Groß- und Kleinschreibung) und Umlauten, sind dies auch Leerzeichen und Sonderzeichen (wie Bindestich, Klammern und Punkt).
 
@@ -60,6 +60,6 @@ Im nächsten Schritt wäre auch eine Gliederung auf Kreisebene denkbar: Märkisc
 Falls Sie Ideen für spannende Open Data Projekte haben oder noch mehr Details über dieses erfahren wollen, können Sie mir gerne eine Nachricht schreiben. Ich bin gespannt auf Feedback, Ideen und weitere Vorschläge.
 
 
-# Quellen
+## Quellen
  - Daten: https://geobasis-bb.de/lgb/de/geodaten/weitere-digitale-produkte/gemeinde--ortsteilverzeichnis/# © GeoBasis-DE/LGB, dl-de/by-2-0
  - Code basierend auf https://www.tensorflow.org/text/tutorials/text_generation
