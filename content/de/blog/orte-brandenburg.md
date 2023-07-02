@@ -2,7 +2,7 @@
 author: "Sören Etler"
 title: "Wie heißen Orte in Brandenburg?"
 date: 2022-06-20
-description: "Dikussion über das Buch AI Superpowers von Kai-Fu Lee"
+description: "Was heißt das für einen Ortsnamen „brandenburgisch“ zu klingen? Ist es möglich neue brandenburger Ortsnamen zu generieren, die so klingen, als könnten sie echt sein?"
 tags: ["Brandenburg", "Dorf"]
 thumbnail: /thumbnail_brandenburger_orte.png
 ---
@@ -15,7 +15,8 @@ thumbnail: /thumbnail_brandenburger_orte.png
 # Gucken wir uns die Ortsnamen aus Brandenburg etwas genauer an –ow
 
 In Brandenburg gibt es 413 politisch selbstständigen Städten und Gemeinden (so sagt es zumindest Wikipedia). Wichtig ist mir aber auch die 1.776 Ortsteile zu berücksichtigen. Nützlicherweise veröffentlich das Land Brandenburg ein Gemeinde- und Ortsteilverzeichnis mit mehr als 5.000 Namen. Hierzu gehören neben kreisfreien Städten und Gemeinden auch Ortsteile, Gemeindeteile und sonstigen Wohnplätzen bzw. Siedlungsnamen.
-No alt text provided for this image
+
+![Diagram über die Länge der Ortsnamen](/wortlaenge_orte_brandenburg.png)
 
 Der kürzeste Ortname ist der Ortsteil Lug in der Gemeinde Bronkow im Kreis Oberspreewald-Lausitz. Weitere Namen mit drei Buchstaben sind Amt, Dom und Aue. Diese sind jedoch nur als Gemeindeteile bzw. Wohnplatz gelistet.
 
@@ -25,7 +26,6 @@ Die meisten Namen fangen mit S, B oder K an. A ist auf Platz 9 der erste Vokal. 
 
 Noch ein kurzer Blick ans Wortende, bevor wir anfangen Namen zu generieren. 8% der Namen enden auf -ow. Es gibt sowohl ein Lunow als auch ein Lünow. Nur 2% enden auf -in: Menkin, Mescherin.
 
- 
 # So jetzt geht es mit dem Generieren los!
 
 Ich habe die Namen zeichenweise generiert. Es wird also immer ein Buchstabe nach dem anderen hinzugefügt. Daher fängt der Prozess auch mit dem Aufsplitten der Namen in die einzelnen Zeichen an. In der Liste von brandenburger Ortsnamen gibt es 67 verschiedene Buchstaben und Zeichen. Neben dem Alphabet (in Groß- und Kleinschreibung) und Umlauten, sind dies auch Leerzeichen und Sonderzeichen (wie Bindestich, Klammern und Punkt).
@@ -37,23 +37,23 @@ Im Herzen des Systems ist ein Recurrent Neural Network. Dieses nutzt die kombini
 So werden Buchstabe für Buchstabe neue Ortsnamen generierten, die so klingen, als würden sie aus Brandenburg kommen.
 
 Beispiel:
- - Gerkbecke
- - Driest
- - Wallshag
- - Kapplow
- - Kabewitz/Hark
- - Silkow-Hollenberg
- - Alte Grüne
- - Friesnig
- - Sieblung Grießbendee
- - Stötzen
- - Brückel
- - Birchhof
- - Malzheusen
- - Grossdorf
- - Brömnitz
- - Pelzik
- - Rohlenkshorfn
+- Gerkbecke
+- Driest
+- Wallshag
+- Kapplow
+- Kabewitz/Hark
+- Silkow-Hollenberg
+- Alte Grüne
+- Friesnig
+- Sieblung Grießbendee
+- Stötzen
+- Brückel
+- Birchhof
+- Malzheusen
+- Grossdorf
+- Brömnitz
+- Pelzik
+- Rohlenkshorfn
 
 Im nächsten Schritt wäre auch eine Gliederung auf Kreisebene denkbar: Märkisch-Oderland klingt sicherlich anders als die Prignitz oder der Fläming. Vielleicht wird daraus mal ein Spiel – „Welchen dieser Orte gibt es nicht?“ oder eine größere Auswertung. Bei mir bleiben noch viele Fragen offen: Woher stammen die Ortsnamen? Heißen große Städte anders als kleine Dörfer? Vielleicht können diese Auswertungen dabei helfen, die Geheimnisse von Brandenburgs Dörfern zu verstehen.
 
