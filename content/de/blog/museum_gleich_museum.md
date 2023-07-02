@@ -2,9 +2,9 @@
 author: "Sören Etler"
 title: "Museum ist nicht gleich Museum"
 date: 2022-04-17
-description: ""
+description: "Im Detail ist unsere Welt immer kompliziert. "
 tags: ["Museum", "Dorf"]
-thumbnail: /midjourney_vs_reality.png
+thumbnail: /thumbnail_museum_gleich_museum.png
 ---
 
 Museen sind vielfältig: kleine Dorfmuseen, ein großes Technikmuseum oder eine Kunstausstellung. Gerne würden wir sie in passende Kategorien sortieren und übersichtlich ablegen. In diesem Blogpost möchte ich einen Blick darauf werfen, wie gut diese Kategorien passen - und welche Alternativen wir haben.
@@ -16,15 +16,15 @@ Midjourney vs. Reality: So stellt sich Midjourney das Kunsthistorische Museum in
 
 Im Redaktionshandbuch für die PoI-Datenbank des Landes Brandenburg (genauer der TMB Tourismus-Marketing Brandenburg GmbH) werden 9 verschiedene mögliche Tags für Museen genannt:
 
-- Stadt-, Regional- und Heimatmuseum (z.B. Städisches Museum Eisenhüttenstadt)
-- Geschichts- und Gewerbemuseum (z.B. DDR-Geschichstmuseum, Modemuseum, Ziegeleimuseum)
-- Schloss- und Sakralmuseum (z.B. Schloss Caputh, Schloss Rheinsberg, Kloster Neuzelle)
-- Kunst- und Literaturmuseum (z.B. Kunstmuseum Dieselkraftwerk Cottbus, Museum Brecht Weigel Haus)
-- Technikmuseum (z.B. Wettermuseum Lindenberg, Ziegeleipark Mildenberg)
-- Naturkundemuseum (z.B. Naturkundemuseum Potsdam)
-- Agrar- und Forstmuseum (z.B. Agrarhistorisches Museum Schlepzig)
-- Mahn- und Gedenkstätte (z.B. Gedenkstätte und Museum Sachsenhausen)
-- sonstiges Museum (z.B. Sportmuseum, Artistenmuseum)
+- **Stadt-, Regional- und Heimatmuseum** (z.B. Städisches Museum Eisenhüttenstadt)
+- **Geschichts- und Gewerbemuseum** (z.B. DDR-Geschichstmuseum, Modemuseum, Ziegeleimuseum)
+- **Schloss- und Sakralmuseum** (z.B. Schloss Caputh, Schloss Rheinsberg, Kloster Neuzelle)
+- **Kunst- und Literaturmuseum** (z.B. Kunstmuseum Dieselkraftwerk Cottbus, Museum Brecht Weigel Haus)
+- **Technikmuseum** (z.B. Wettermuseum Lindenberg, Ziegeleipark Mildenberg)
+- **Naturkundemuseum** (z.B. Naturkundemuseum Potsdam)
+- **Agrar- und Forstmuseum** (z.B. Agrarhistorisches Museum Schlepzig)
+- **Mahn- und Gedenkstätte** (z.B. Gedenkstätte und Museum Sachsenhausen)
+- **sonstiges Museum** (z.B. Sportmuseum, Artistenmuseum)
 
 Diese Unterteilung basiert auf den Kategorien des Museumsverband des Landes Brandenburg e. V.
 
