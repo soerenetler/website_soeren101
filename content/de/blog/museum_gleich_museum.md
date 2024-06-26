@@ -2,7 +2,7 @@
 author: "Sören Etler"
 title: "Museum ist nicht gleich Museum"
 date: 2022-04-17
-description: "Im Detail ist unsere Welt immer kompliziert. "
+description: "Museen sind vielfältig. Wir können sie in Kategorien sortieren, aber die Kategorien passen nicht immer. Im Detail ist unsere Welt immer kompliziert."
 tags: ["Museum", "Dorf"]
 thumbnail: /thumbnail_museum_gleich_museum.png
 ---

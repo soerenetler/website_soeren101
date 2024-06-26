@@ -2,7 +2,7 @@
 author: "Sören Etler"
 title: "Und was ist deine AI Superpower?"
 date: 2023-06-13
-description: "Dikussion über das Buch AI Superpowers von Kai-Fu Lee"
+description: "Wie steht es um KI als die Superpower im 21. Jahrhundert? Welche Rolle spielen China und die USA? Eine Dikussion über das Buch AI Superpowers von Kai-Fu Lee."
 tags: ["AI Superpowers", "buchclub", "CorrelAid"]
 thumbnail: /thumbnail_ai_superpowers.png
 ---

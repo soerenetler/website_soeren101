@@ -1,4 +1,4 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://soeren101.de"
 metaDataFormat = "yaml"
 title = "Sören Etler - Datenanlysen und Künstliche Intelligenz"
 theme = "blist"
@@ -11,16 +11,12 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/de" # Deutsch
     weight = 2
     languageName = "Deutsch"
-    description = "Ich bin Dantenanalyst, Pythonist & Nerd und ihr könnt mich hier auf meinen Expeditionen in das Reich der Daten begleiten."
     [languages.de.params]
-      introTitle = "Hallo, ich bin Sören Etler"
-      introSubtitle = "Ich bin Dantenanalyst, Pythonist & Nerd und ihr könnt mich hier auf meinen Expeditionen in das Reich der Daten begleiten."
+      description = "Ich bin der Open Data Analyst."
+      introTitle = "Moin, ich bin Sören Etler"
+      introSubtitle = "Ich bin Dantenanalyst und habe mich auf die Arbeit mit Sprach- und Geodaten spezialisiert. Als Open Data Analyst unterstütze Organisationen dabei, aus ihren Daten Erkenntnisse zu gewinnen und diese zu kommunizieren. Dazu gehören Analysen, Visualisierungen und Vorträge rund um die Themen Daten und KI."
       introPhoto = "/picture.png"
       logo = "/blist-logo.png"
-    [[languages.de.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
 
     [[languages.de.menu.main]]
         name = "Über mich"
@@ -52,7 +48,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Sören Etler · All rights reserved"
+  copyright = "Copyright © 2024 - Sören Etler · All rights reserved · <a href=de/page/Impressum>Impressum</a>"
   favicon = "favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -105,21 +101,15 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  title = "👋 Schreib mir"
+  description = "Ob ein interessanter Datensatz, beeindruckenden Visualisierungen oder ein Impulsvortrag zu KI. Du hast Interesse mit mir zusammenzuarbeiten? Schreib mir eine Nachricht!"
 
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://www.linkedin.com/in/soeren-etler/"
   [[params.homepage.social.icons]]
-    website = "github"
-    url = "https://github.com/soerenetler"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/users/7993510/s%c3%b6ren-etler"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://www.instagram.com/soeren287/"
+    website = "email"
+    url = "moin@soerenetler.de"
 
 [[menu.main]]
   name = "About"
