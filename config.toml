@@ -1,4 +1,4 @@
-baseurl = "https://soerenetler.de"
+baseurl = "https://soerenetler.de/"
 metaDataFormat = "yaml"
 title = "Sören Etler - Datenanlysen und Künstliche Intelligenz"
 theme = "blist"
