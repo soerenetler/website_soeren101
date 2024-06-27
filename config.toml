@@ -48,7 +48,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - Sören Etler · All rights reserved · <a href=/de/page/Impressum>Impressum</a>"
+  copyright = "Copyright © 2024 - Sören Etler · All rights reserved · <a href=/de/page/impressum>Impressum</a>"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
