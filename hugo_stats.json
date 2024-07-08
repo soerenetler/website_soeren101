@@ -41,6 +41,7 @@
     ],
     "classes": [
       "absolute",
+      "active",
       "bg-blue-100",
       "bg-gray-100",
       "bg-white",
@@ -63,6 +64,7 @@
       "dark:text-gray-600",
       "dark:text-gray-800",
       "dark:text-white",
+      "disabled",
       "flex",
       "flex-1",
       "flex-col",
@@ -132,6 +134,10 @@
       "p-12",
       "p-2",
       "p-6",
+      "page-item",
+      "page-link",
+      "pagination",
+      "pagination-default",
       "pb-6",
       "place-items-center",
       "prose",
@@ -189,11 +195,16 @@
       "go",
       "gucken-wir-uns-die-ortsnamen-aus-brandenburg-etwas-genauer-an-ow",
       "haftungsausschluss",
+      "kann-excel-auch-karten",
       "kontakt",
+      "map",
       "quellen",
       "so-jetzt-geht-es-mit-dem-generieren-los",
       "tldr",
+      "und-wie-kann-man-wein-beschreiben",
       "usa-vs-china",
+      "welcher-wein-ist-wo",
+      "wo-liegen-die-weingüter",
       "überblick"
     ]
   }
