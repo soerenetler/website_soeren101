@@ -2,7 +2,7 @@ baseurl = "https://soerenetler.de/"
 metaDataFormat = "yaml"
 title = "Sören Etler - Datenanlysen und Künstliche Intelligenz"
 theme = "blist"
-timeout = "60s"
+timeout = "120s"
 
 DefaultContentLanguage = "de"
 DefaultContentLanguageInSubdir = true
@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.de.params]
       description = "Ich bin der Open Data Analyst."
       introTitle = "Moin, ich bin Sören Etler"
-      introSubtitle = "Ich bin Dantenanalyst und habe mich auf die Arbeit mit Sprach- und Geodaten spezialisiert. Als Open Data Analyst unterstütze Organisationen dabei, aus ihren Daten Erkenntnisse zu gewinnen und diese zu kommunizieren. Dazu gehören Analysen, Visualisierungen und Vorträge rund um die Themen Daten und KI."
+      introSubtitle = "Ich bin Datenanalyst und habe mich auf die Arbeit mit Sprach- und Geodaten spezialisiert. Als Open Data Analyst unterstütze ich Organisationen dabei, aus ihren Daten Erkenntnisse zu gewinnen und diese zu kommunizieren. Dazu gehören Analysen, Visualisierungen und Vorträge rund um die Themen Daten und KI."
       introPhoto = "/picture.png"
       logo = "/blist-logo.png"
 
