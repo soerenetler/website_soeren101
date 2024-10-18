@@ -39,7 +39,7 @@ Durch die Spiegelung der Sonne im Bodensee, die besondere Ausrichtung der Hänge
 Die Weinanbaugebiete lassen sich auch gut nach den angebauten Weinsorten unterscheiden. die folgenden Visualisierungen zeigen die Verbreitung von verschiedenen Weinsoten in Baden-Württemberg. In diesem Fall hatte ich keine genauen Daten und habe daher das Vorkommen der Weinsorten in den Beschreibungstexten von Weingütern in der touristischen Landesdatenbank als Näherung benutzt. Das hat super funktioniert und man kann direkt erkennen, welche Sorten flächendeckend vorhanden sind und welche sehr speziell für eine Region sind.
 
 <link rel="stylesheet" href="/gallery.css">
-<script src="/gallery.js">
+<script src="/gallery.js"></script>
 
 <!-- The grid: four columns -->
 <div class="row">
