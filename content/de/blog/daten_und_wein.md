@@ -55,25 +55,25 @@ Die Weinanbaugebiete lassen sich auch gut nach den angebauten Weinsorten untersc
   <div class="column">
     <img src="wein/Kerner.png" alt="Kerner" onclick="myFunction(this);">
   </div>
-    <div class="column">
+  <div class="column">
     <img src="wein/Lemberger.png" alt="Lemberger" onclick="myFunction(this);">
   </div>
-    <div class="column">
+  <div class="column">
     <img src="wein/Müller-Thurgau.png" alt="Müller-Thurgau" onclick="myFunction(this);">
   </div>
-    <div class="column">
+  <div class="column">
     <img src="wein/Riesling.png" alt="Riesling" onclick="myFunction(this);">
   </div>
-    <div class="column">
+  <div class="column">
     <img src="wein/Schwarzriesling.png" alt="Schwarzriesling" onclick="myFunction(this);">
   </div>
-    <div class="column">
+  <div class="column">
     <img src="wein/Silvaner.png" alt="Silvaner" onclick="myFunction(this);">
   </div>
-    <div class="column">
+  <div class="column">
     <img src="wein/Spätburgunder.png" alt="Spätburgunder" onclick="myFunction(this);">
   </div>
-    <div class="column">
+  <div class="column">
     <img src="wein/Trollinger.png" alt="Trollinger" onclick="myFunction(this);">
   </div>
 </div>
