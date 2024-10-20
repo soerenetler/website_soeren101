@@ -42,52 +42,52 @@ Die Weinanbaugebiete lassen sich auch gut nach den angebauten Weinsorten untersc
 <script src="/gallery.js"></script>
 
 <!-- The grid: four columns -->
-<div class="row">
-  <div class="column">
+<div class="gallery_row">
+  <div class="gallery_column">
     <img src="/weinsorten.png" alt="Weinsorten Übersicht" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Grauburgunder.png" alt="Grauburgunder" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Gutedel.png" alt="Gutedel" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Kerner.png" alt="Kerner" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Lemberger.png" alt="Lemberger" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Mueller-Thurgau.png" alt="Müller-Thurgau" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Riesling.png" alt="Riesling" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Schwarzriesling.png" alt="Schwarzriesling" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Silvaner.png" alt="Silvaner" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Spaetburgunder.png" alt="Spätburgunder" onclick="myFunction(this);">
   </div>
-  <div class="column">
+  <div class="gallery_column">
     <img src="/wein/Trollinger.png" alt="Trollinger" onclick="myFunction(this);">
   </div>
 </div>
 
 <!-- The expanding image container -->
-<div class="container">
+<div class="gallery_container">
   <!-- Close the image -->
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <span onclick="this.parentElement.style.display='none'" class="gallery_closebtn">&times;</span>
 
   <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%">
+  <img id="gallery_expandedImg" style="width:100%">
 
   <!-- Image text -->
-  <div id="imgtext"></div>
+  <div id="gallery_imgtext"></div>
 </div>
 
 ## Und wie kann man Wein beschreiben?

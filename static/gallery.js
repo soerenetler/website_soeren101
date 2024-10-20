@@ -1,8 +1,8 @@
 function myFunction(imgs) {
     // Get the expanded image
-    var expandImg = document.getElementById("expandedImg");
+    var expandImg = document.getElementById("gallery_expandedImg");
     // Get the image text
-    var imgText = document.getElementById("imgtext");
+    var imgText = document.getElementById("gallery_imgtext");
     // Use the same src in the expanded image as the image being clicked on from the grid
     expandImg.src = imgs.src;
     // Use the value of the alt attribute of the clickable image as text inside the expanded image
