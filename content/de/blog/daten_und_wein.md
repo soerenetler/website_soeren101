@@ -91,13 +91,19 @@ Die Weinanbaugebiete lassen sich auch gut nach den angebauten Weinsorten untersc
 </div>
 
 ## Und wie kann man Wein beschreiben?
-In meiner letzten Auswertung möchte ich nicht nur auf die Geodaten und die Verbreitung von Weinen schauen, sondern einen größeren Fokus auf die Beschreibungstexte legen. Ich wollte wissen mit welchen Adjektiven das Wort "Wein" in den Texten beschrieben wird. Von den XXX Vorkommnissen von dem Wort "Wein", wird das Nomen in XXX Fällen von einem oder mehreren Adjektiven begleitet.
+In meiner letzten Auswertung möchte ich nicht nur auf die Geodaten und die Verbreitung von Weinen schauen, sondern einen größeren Fokus auf die Beschreibungstexte legen. Ich wollte wissen mit welchen Adjektiven das Wort "Wein" in den Texten beschrieben wird. Von den 3948 Vorkommnissen von dem Wort "Wein", wird das Nomen in 1306 Fällen von einem oder mehreren Adjektiven begleitet.
 
 Diese Wortwolke zeigt die häufigsten Adjektive, die Wein beschreiben.
 
-![Wortwolek Adjektive zu Wein](/wortwolke_wein.png)
+![Wortwolek Adjektive zu Wein](/wein_wortwolke.png)
+
+Das am häufigsten verwendete Adjektiv ist "gut" - wie unkreativ - mit 97 Vorkommnissen. "Erlesen" (59) und "badisch (57) folgen auf Platz zwei und drei. Ebenfalls häufig verwendet werden "regional" (45), "hervorragend" (43) und "lecker" (37).
 
 Im nächsten Schritt interessiert mich, wie eine Generalisierung von so einer Analyse aussehen kann. In zwei Richtungen kann ich mir dies gut vorstellen.
 
 1. Welche Adjektive beschreiben ein bestimmtes Nomen? (so wie ich es auch bei der Analyse zu "Wein" gemacht habe.)
-2. Welche Nomen werden von einem bestimmten Adjektiv beschrieben?  (Welche anderen Nomen werden noch als "regional" beschrieben?)
+2. Welche Nomen werden von einem bestimmten Adjektiv beschrieben? (Welche anderen Nomen werden noch als "regional" beschrieben?)
+
+Das ist dann aber ein Thema für einen nächstes Blogpost.
+
+Die Daten aus der touristischen Landesdatenbank der TMBW mein.toubiz konnten einen guten Einblick in das Thema Wein in Baden-Württemberg geben. Die ersten Analysen konnten einen Überblick über die Weinregionen, verschiedenen Weinsorten und Adjektive zur Beschreibung von Wein geben. Du hast Ideen für andere Visualisierungsformen - lass es mich gerne wissen. Ich freue mich auf Eure Ideen und Anregungen. 
