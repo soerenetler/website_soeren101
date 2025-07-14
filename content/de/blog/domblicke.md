@@ -11,7 +11,7 @@ thumbnail: /domblicke.png
 
 ## Sichtbarkeit als digitales Erlebnis
 
-Die Idee für dieses Projekt entstand nach dem Ansehen eines YouTube-Videos von Adam Cole und Joss Fong, in dem sie das Projekt [shademap.app](shademap.app) vorstellen. Dort wird visualisiert, wann Orte auf der Erde im Schatten liegen. Inspiriert davon habe ich mithilfe eines Tutorials von Helen Makes Maps die Technik auf Magdeburg angewendet.
+Die Idee für dieses Projekt entstand nach dem Ansehen eines YouTube-Videos von Adam Cole und Joss Fong, in dem sie das Projekt [shademap.app](https://shademap.app) vorstellen. Dort wird visualisiert, wann Orte auf der Erde im Schatten liegen. Inspiriert davon habe ich mithilfe eines Tutorials von Helen Makes Maps die Technik auf Magdeburg angewendet.
 
 Ich nutze die Open-Source-Software QGIS. Das Verfahren basiert auf einer Viewshed-Analyse: Man wählt einen Beobachtungspunkt – in meinem Fall die Türme des Magdeburger Doms –, lädt ein Höhenmodell der Umgebung und berechnet, welche Flächen auf Basis von Gelände und Bebauung sichtbar sind.
 
@@ -19,7 +19,7 @@ Berechnet habe ich die Karten mit dem Oberflächenmodell (DOM) und dem Geländem
 
 Für die Webkarte habe ich nur die sichtbaren Flächen markiert, die nicht bebaut sind – denn eine Sicht vom Hausdach ist für die meisten Menschen weniger hilfreich. Die berechneten Kacheln habe ich in eine interaktive Leaflet-Karte überführt:
 
-👉 [Website Domblicke](domblicke.soerenetler.de)
+👉 [Website Domblicke](https://domblicke.soerenetler.de)
 
 ## Anwendungsfälle im Tourismus
 
@@ -43,7 +43,7 @@ Das Thema Sichtbarkeit lässt sich auch spielerisch oder historisch denken:
 
 ## Karte entdecken
 
-Die interaktive Karte findest du unter [domblicke.soerenetler.de](domblicke.soerenetler.de). Viel Spaß beim Erkunden der Domblicke! Ich freue mich über Fotos vom Dom aus den unterschiedlichsten Ecken Magdeburgs.
+Die interaktive Karte findest du unter [domblicke.soerenetler.de](https://domblicke.soerenetler.de). Viel Spaß beim Erkunden der Domblicke! Ich freue mich über Fotos vom Dom aus den unterschiedlichsten Ecken Magdeburgs.
 
 
 ## Quellen der Inspiration:
