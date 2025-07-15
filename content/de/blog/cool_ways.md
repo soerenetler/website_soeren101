@@ -4,7 +4,7 @@ title: "Cool Way: Schattige Wege für heiße Tage"
 date: 2025-06-15
 description: "Eine Anwendung, die schattige, kühle und angenehme Routen vorschlägt. Statt der schnellsten Strecke zeigt Cool Way die angenehmste."
 tags: ["Datenanalyse", "Tourismus", "Open Data"]
-thumbnail: /cool_ways.png
+thumbnail: cool_ways/cool_ways.png
 ---
 
 # 🧊 Cool Ways – Schattige Wege für heiße Tage
@@ -20,7 +20,7 @@ Unsere Idee: Eine Anwendung, die schattige, kühle und angenehme Routen vorschl�
 ## Was haben wir gemacht?
 In nur einem Tag haben wir einen ersten Prototypen gebaut. Unsere Web-App erkennt, welche Abschnitte eines Wanderwegs im Schatten liegen – und wie sich das je nach Tageszeit verändert. Grundlage waren Wanderweg-Daten aus mein.toubiz, Sonneneinstrahlungsdaten von ShadeMap, sowie OpenStreetMap-Daten für die Umgebung.
 
-![Der Prototyp](/prototyp_cool_ways.png)
+![Der Prototyp](cool_ways/prototyp_cool_ways.jpeg)
 
 Der Clou: Die Karte zeigt farblich an, welche Wegabschnitte gerade im Schatten liegen – und wie es sich im Tagesverlauf verändert. Dazu können Nutzer:innen gezielt nach schattigen Alternativen suchen, z. B. für die Mittagspause, den Spaziergang mit Kind oder den Arbeitsweg mit dem Rad.
 
