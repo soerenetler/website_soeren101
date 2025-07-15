@@ -7,10 +7,9 @@ tags: ["Datenanalyse", "Tourismus", "Open Data"]
 thumbnail: cool_ways/cool_ways.png
 ---
 
-# 🧊 Cool Ways – Schattige Wege für heiße Tage
-Ein Projekt vom Hack and Harvest Hackathon in Konstanz
+Ein Projekt vom Hack and Harvest Hackathon in Konstanz.
 
-Es war heiß in Konstanz – nicht nur wegen der sommerlichen Temperaturen, sondern auch wegen der Ideen beim Hack and Harvest Hackathon. Als Themenpate durfte ich das Projekt Cool Way begleiten. Unsere Mission: Coole Wege finden – nicht nur im übertragenen Sinne.
+Es war heiß in Konstanz – nicht nur wegen der sommerlichen Temperaturen, sondern auch wegen der glühenden Köpfe beim Hack and Harvest Hackathon. Als Themenpate durfte ich das Projekt Cool Way begleiten. Unsere Mission: Coole Wege finden – nicht nur im übertragenen Sinne.
 
 ## Warum eigentlich "Cool Ways"?
 Wenn die Sonne brennt, werden Alltagswege schnell zur Belastung. Besonders betroffen: ältere Menschen, Kinder, Menschen mit Vorerkrankungen – kurzum: alle, die mit großer Hitze zu kämpfen haben. Doch nicht jeder kann oder will sich bei Hitze einfach in klimatisierte Räume zurückziehen.
