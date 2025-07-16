@@ -1,7 +1,7 @@
 ---
 author: "Sören Etler"
 title: "Cool Way: Schattige Wege für heiße Tage"
-date: 2025-06-15
+date: 2025-07-15
 description: "Eine Anwendung, die schattige, kühle und angenehme Routen vorschlägt. Statt der schnellsten Strecke zeigt Cool Way die angenehmste."
 tags: ["Datenanalyse", "Tourismus", "Open Data"]
 thumbnail: /cool_ways/cool_ways.png
