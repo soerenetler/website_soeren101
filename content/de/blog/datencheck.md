@@ -4,10 +4,8 @@ title: "Datenchecks: Datenqualität messen und verbessern"
 date: 2025-07-16
 description: "Datenqualität kann nur verbessert werden, wenn sie auch gemessen wird."
 tags: ["Datenanalyse", "Tourismus", "Open Data"]
-thumbnail: /cool_ways/cool_ways.png
+thumbnail: /datencheck/datencheck.png
 ---
-
-# Datenchecks: Datenqualität messen und verbessern
 
 **„Datenqualität kann nur verbessert werden, wenn sie auch gemessen wird.“** Genau hier setzen die Datenchecks an, die ich für Baden‑Württembergs zentrale Datenbank *mein.toubiz* und Sachsens *SaTourN*-Datenbank durchgeführt habe. In diesem Blogpost erkläre ich, was es mit diesen Datenchecks auf sich hat, welche **Qualitätskriterien** geprüft wurden und welchen **Mehrwert** sie bieten – ganz nach dem Prinzip: Ohne Messung keine Verbesserung. Sie erfahren zudem, wie solche Analysen Ihre Organisation motivieren können, **gezielt an besserer Datenqualität zu arbeiten**, und wir geben Anregungen für weiterführende Auswertungen.
 
@@ -21,7 +19,7 @@ Doch wie erkennt man, *wie gut* die Daten sind? Hier kommen die Datenchecks in
 
 Die durchgeführten Datenchecks analysierten verschiedene **Qualitätskomponenten** in den touristischen Datenbanken *mein.toubiz* (Baden-Württemberg) und *SaTourN* (Vogtland/Sachsen). Die Datenchecks wurden so konzipiert, dass sie **klar und visuell ansprechend** den Status quo der Datenqualität darstellen. Jeder Bericht – ob für eine einzelne Organisation in Baden-Württemberg oder für eine Datenkategorie im Vogtland – ist nach einem ähnlichen Muster aufgebaut:
 
-GRAFIK DATENCHECK BaWü
+![Datencheck BaWü](/datencheck/datencheck_bw.png)
 
 *Beispielhafte Auswertung aus dem&#160;**mein.toubiz Datencheck 2024**&#160;für Tourismus Baden-Württemberg: Der Bericht zeigt oben Gesamtzahlen und Lizenzquoten (nur 21 % der Einträge sind Open Data), daneben die Hauptkategorien der Einträge im Vergleich zum Landesdurchschnitt. Unten werden Kennzahlen zu Beschreibungstexten, Kurzbeschreibungen und Bildern dargestellt – z.B. haben 73 % der Einträge einen Beschreibungstext, aber nur 51 % liegen im empfohlenen Längenbereich von 300–1000 Zeichen. Außerdem besitzen 83 % der Einträge mindestens ein Bild.*
 
@@ -82,6 +80,6 @@ Die durchgeführten Datenchecks waren ein wichtiger Anfang, doch natürlich kann
 Die Datenchecks für TMBW und TMGS haben eindrucksvoll gezeigt, dass **Transparenz über den Status quo** der Datenqualität der entscheidende erste Schritt ist. Viele Touristiker hatten zuvor nur ein Bauchgefühl zur Güte ihrer Daten – nun haben sie konkrete Zahlen. Und diese Zahlen sprechen eine klare Sprache: Es gibt viel zu tun, aber es lohnt sich. Jede verbesserte Beschreibung, jedes zusätzliche Bild und jede frei lizenzierte Information erhöht die Sichtbarkeit und Attraktivität unseres Angebots im digitalen Raum.
 
 Und bedenken Sie stets das eingangs genannte Motto: **Datenqualität kann nur verbessert werden, wenn sie auch gemessen wird.** In diesem Sinne: Packen wir es an – messen, verbessern, und unseren Gästen sowie Partnern damit ein noch besseres digitales Erlebnis bieten!
- 
+
 **Quellen:** Die im Text verwendeten Daten und Beispiele stammen aus den *Datenchecks 2024/2025* der TMBW (mein.toubiz) und TMGS (SaTourN), aus den Unterlagen im [Tourismusnetzwerk Baden-Württemberg](https://bw.tourismusnetzwerk.info/digitalisierung-mein-toubiz/datenmanagement/datenbank-mein-toubiz/) sowie dem [Tourismusnetzwerk Sachsen](https://sachsen.tourismusnetzwerk.info/digitales/digitalarchitektur/satourn/).
 
